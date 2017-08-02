@@ -1,27 +1,19 @@
-## Introducing the Profund Add-In for Microsoft Office
+## Introducing Profund Office App
 
-You can use the [editor on GitHub](https://github.com/profundbits/home/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**An Add-In for Microsoft Office**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Profund Office App will be a replacement for the Profund Contract Connector Add-In. _Profund Office App will target Microsoft Office 2013 and later._
 
 ```markdown
-Syntax highlighted code block
+### Expected Features
 
-# Header 1
-## Header 2
-### Header 3
+**PHASE 1: Replace and Improve Upon Current Profund Contract Connector Functionality in MS Word**
+- Manage Teacher Contracts in MS Word with Data/Mail Merge
+- Upload/Manage Document Templates stored in the Profund Database Server
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+**PHASE 2: Integrated Financial Reports in MS Excel**
+- Review and manipulate Profund financial data directly in Excel (central office adminstrators only)
+- Import Employee history, demographic information, and staff data
 
 [Link](url) and ![Image](src)
 ```
@@ -32,6 +24,3 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/profundbits/home/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
