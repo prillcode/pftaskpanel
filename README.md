@@ -14,6 +14,6 @@ The _Profund Task Panel_ will be a replacement for the current _Profund Contract
 - Review and manipulate Profund financial data directly in Excel (central office adminstrators only)
 - Import Employee history, demographic information, and staff data
 
-_^Profund Financial Software is a licensed enterprise-level product of [Tyler Technologies](https://tylertech.com/). Existing Profund clients and users should [Contact Profund Support](https://www.tylertech.com/client-support/profund-support) for more information on the upcoming release of the Profund Task Panel for MS Office._
+_^Profund Financial Software is a fully licensed enterprise-level product of [Tyler Technologies](https://tylertech.com/). Profund Task Panel for MS Office is for existing Profund clients and users only. Any code stored in this repository will not function without properly licenced Profund Software and a current support contract. Existing Profund clients should [Contact the Profund Support Team](https://www.tylertech.com/client-support/profund-support) if you wish to be a beta tester for the Profund Task Panel for MS Office once it is available. Expected beta release is Q1 of 2018._
 
 
