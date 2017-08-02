@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Introducing the Profund Add-In for Microsoft Office
 
 You can use the [editor on GitHub](https://github.com/profundbits/home/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
